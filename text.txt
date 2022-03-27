@@ -1,0 +1,6 @@
+SUPPLIER|S|Toshiba|Tokyo, Japan
+CLIENT|C1|Jorge Figueiredo|Lisboa, Portugal
+CLIENT|C2|Abdul Figueiredo|Casablanca, Morocco
+BOX|BOX|NORMAL|S|2|20|100
+CONTAINER|CONTAINER|NORMAL|B4|S|2|20|100
+BOOK|BOOK|Os Lusíadas|Luís de Camões|1234567890|S|58|2|5
